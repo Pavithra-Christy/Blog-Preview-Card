@@ -43,7 +43,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - Custom CSS properties for styling
 - Flexbox for layout
-- Mobile-first workflow
 - Custom Fonts
 
 ### What I learned
